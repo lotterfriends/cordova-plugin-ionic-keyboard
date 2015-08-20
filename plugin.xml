@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="cordova-plugin-keyboard"
+    id="cordova-plugin-ionic-keyboard"
     version="1.0.5">
     <name>Keyboard</name>
     <description>Cordova Keyboard Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova, ionic, keyboard</keywords>
-    <repo>https://github.com/lotterfriends/cordova-plugin-keyboard.git</repo>
-    <issue>https://github.com/lotterfriends/cordova-plugin-keyboard/issues</issue>
+    <repo>https://github.com/lotterfriends/cordova-plugin-ionic-keyboard.git</repo>
+    <issue>https://github.com/lotterfriends/cordova-plugin-ionic-keyboard/issues</issue>
 
   <js-module src="www/keyboard.js" name="keyboard">
     <clobbers target="cordova.plugins.Keyboard" />
