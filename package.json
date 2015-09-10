@@ -12,7 +12,7 @@
     ]
   },
   "description": "Cordova Keyboard Plugin",
-  "repository": "https://github.com/lottefriends/cordova-plugin-ionic-keyboard.git",
+  "repository": "https://github.com/lotterfriends/cordova-plugin-ionic-keyboard.git",
   "issue": "https://github.com/lotterfriends/cordova-plugin-ionic-keyboard/issues",
   "keywords": [
     "cordova",
